@@ -37,6 +37,7 @@ Click on the menu Login/Register and register for an account
 ![image](https://github.com/user-attachments/assets/f605db83-58b1-4fb8-a449-248e390beca8)
 
 Click on the link “Please register here”
+
 ![Uploading image.png…]()
 
 ## RESULT:
